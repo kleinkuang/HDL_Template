@@ -1,7 +1,7 @@
 // File:    signal_pulse.sv
 // Author:  Lei Kuang
 // Date:    2019.01.02
-// @ Impeial College London
+// @ Imperial College London
 
 // Generate Signal Pulse for Different Clock Domain
 
