@@ -1,7 +1,7 @@
 // File:    spi_master.sv
 // Author:  Lei Kuang
 // Date:    2019.02.01
-// @ Impeial College London
+// @ Imperial College London
 
 // Golden Version for ISFET Chip
 // !!! Failing Edge for both SDI & SDO !!!
