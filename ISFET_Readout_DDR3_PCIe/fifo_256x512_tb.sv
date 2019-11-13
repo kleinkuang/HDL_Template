@@ -1,7 +1,7 @@
 // File:    fifo_256x512_tb.sv
 // Author:  Lei Kuang
 // Date:    2019.01.02
-// @ Impeial College London
+// @ Imperial College London
 
 module fifo_256x512_tb;
 
