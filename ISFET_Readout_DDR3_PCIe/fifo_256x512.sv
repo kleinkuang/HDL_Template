@@ -1,7 +1,7 @@
 // File:    fifo_256x512.sv
 // Author:  Lei Kuang
 // Date:    2019.01.05
-// @ Impeial College London
+// @ Imperial College London
 
 // Wrapper for IP FIFO (Built-in FIFO)
 // Data Width 256 bit
