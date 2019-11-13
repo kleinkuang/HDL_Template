@@ -1,7 +1,7 @@
 // File:    clkdiv_N.sv
 // Author:  Lei Kuang
 // Date:    2018.10.25
-// @Impeial College London
+// @Imperial College London
 
 // Function:
 // Clock Divider
