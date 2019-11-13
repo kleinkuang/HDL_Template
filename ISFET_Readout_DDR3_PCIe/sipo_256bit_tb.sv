@@ -1,7 +1,7 @@
 // File:    sipo_256bit_tb.sv
 // Author:  Lei Kuang
 // Date:    2019.01.02
-// @ Impeial College London
+// @ Imperial College London
 
 module sipo_256bit_tb;
 
