@@ -1,7 +1,7 @@
 // File:    Readout.sv
 // Author:  Lei Kuang
 // Date:    2019.01.08
-// @ Impeial College London
+// @ Imperial College London
 
 module Readout
 (
